@@ -10,3 +10,4 @@ ToDo:
 4. Patch - Queries and application
 5. Reporting, monitoring, alerting
 6. Interface/consume - User portals for requests, approvals, etc (AWX/Tower/something else?)
+7. CI/CD work?  Probably break out of this repo?
